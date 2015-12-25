@@ -9,8 +9,6 @@ public class PersonDemo {
 		
 		Dominik.printPerson(77);
 		
-		
-
 	}
 
 }
